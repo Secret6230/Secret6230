@@ -2,7 +2,7 @@
 
 
 <br>
-Hallo zusammen! Mein Name ist Akin Kale, und ich bin Student bei Techstarter, und versuche Webentwickler zu werden. 
+<h1>Hallo zusammen!</h1> Mein Name ist Akin Kale, und ich bin Student bei Techstarter, und versuche Webentwickler zu werden. 
 
 _____________
 
