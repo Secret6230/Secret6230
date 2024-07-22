@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-
----
-
-*Vorstellung:*
+#*Vorstellung:*#
 
 Hallo zusammen! Mein Name ist Akin Kale, und ich bin Student bei Techstarter, und versuche Webentwickler zu werden. 
 
@@ -19,4 +16,3 @@ _____________
 5. Es ist 11:40
 
 
----
